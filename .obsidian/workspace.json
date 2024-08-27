@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "drafts/0 - New Chapter.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "drafts/0 - New Chapter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "drafts/0 - New Chapter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "drafts/0 - New Chapter.md"
               }
             }
           },
@@ -163,12 +163,21 @@
   },
   "active": "3cfb088b56d0280b",
   "lastOpenFiles": [
+    "final/0 - Final Chapter.md",
+    "drafts/0 - New Chapter.md",
+    "archive/0 - An Attempt at a Try.md",
+    "graphics/Cool Art.jpeg.md",
+    "notes/General Note.md",
+    "notes/Place.md",
+    "Untitled.md",
+    "notes/Mary Sue.md",
+    "research/First Research Note.md",
+    "Readme.md",
     "templates/new note.md",
     "templates/new location.md",
     "templates/new character.md",
     "templates/new chapter.md",
     "Untitled",
-    "Untitled.md",
     "Tasks.md",
     "research",
     "final",
@@ -176,7 +185,6 @@
     "notes",
     "drafts",
     "archive",
-    "Readme.md",
     "templates"
   ]
 }
