@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "b567f844992e20b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "12e5fe6add07659f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cfb088b56d0280b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b91772be1d97bf21",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc132838b99eb524",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeda857dab78449a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "667356f89e5f02cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03440e28b82cad27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df5b949bad445b8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "730a7b92d44e493a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a9bae2f84fc3cbd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f400f4aa8b819c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bcf2cba0f3d6871",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c4afc40caf57888",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme.md"
+              }
+            }
+          },
+          {
+            "id": "0e61a1cd737e78bf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "3cfb088b56d0280b",
+  "lastOpenFiles": [
+    "templates/new note.md",
+    "templates/new location.md",
+    "templates/new character.md",
+    "templates/new chapter.md",
+    "Untitled",
+    "Untitled.md",
+    "Tasks.md",
+    "research",
+    "final",
+    "graphics",
+    "notes",
+    "drafts",
+    "archive",
+    "Readme.md",
+    "templates"
+  ]
+}

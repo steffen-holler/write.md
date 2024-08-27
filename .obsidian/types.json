@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Charaters": "multitext",
+    "Critique": "checkbox",
+    "Gramerly": "checkbox",
+    "Daft": "number",
+    "Day": "date",
+    "publish": "checkbox"
+  }
+}
